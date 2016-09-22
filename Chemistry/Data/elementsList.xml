@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PeriodicTable>
+	<Items>
+		<Element AtomicNumber="1" Amu="1.00794" Name="Hydrogen" Symbol="H" Category="Nonmetal" Period="1" Valence="1" Config="1s1" Negativity="2.1"/>
+		<Element AtomicNumber="2" Amu="4.0026" Name="Helium" Symbol="He" Category="Noble_Gas" Period="1" Valence="2" Config="1s2" Negativity="0"/>
+		<Element AtomicNumber="3" Amu="6.941" Name="Lithium" Symbol="Li" Category="Alkali" Period="2" Valence="1" Config="[He]2s1" Negativity="1"/>
+		<Element AtomicNumber="4" Amu="9.01218" Name="Beryllium" Symbol="Be" Category="Alkaline" Period="2" Valence="2" Config="[He]2s2" Negativity="1.5"/>
+		<Element AtomicNumber="5" Amu="10.811" Name="Boron" Symbol="B" Category="Metalloid" Period="2" Valence="3" Config="[He]2s2  2p1" Negativity="2"/>
+		<Element AtomicNumber="6" Amu="12.011" Name="Carbon" Symbol="C" Category="Nonmetal" Period="2" Valence="4" Config="[He]2s2  2p2" Negativity="2.5"/>
+		<Element AtomicNumber="7" Amu="14.0067" Name="Nitrogen" Symbol="N" Category="Nonmetal" Period="2" Valence="5" Config="[He]2s2  2p3" Negativity="3"/>
+		<Element AtomicNumber="8" Amu="15.9994" Name="Oxygen" Symbol="O" Category="Nonmetal" Period="2" Valence="6" Config="[He]2s2  2p4" Negativity="3.5"/>
+		<Element AtomicNumber="9" Amu="18.9984" Name="Fluorine" Symbol="F" Category="Halogen" Period="2" Valence="7" Config="[He]2s2  2p5" Negativity="4"/>
+		<Element AtomicNumber="10" Amu="20.1797" Name="Neon" Symbol="Ne" Category="Noble_Gas" Period="2" Valence="8" Config="[He]2s2  2p6" Negativity="0"/>
+		<Element AtomicNumber="11" Amu="22.98977" Name="Sodium" Symbol="Na" Category="Alkali" Period="3" Valence="1" Config="[Ne]3s1" Negativity="0.9"/>
+		<Element AtomicNumber="12" Amu="24.305" Name="Magnesium" Symbol="Mg" Category="Alkaline" Period="3" Valence="2" Config="[Ne]3s2" Negativity="1.2"/>
+		<Element AtomicNumber="13" Amu="26.98154" Name="Aluminium" Symbol="Al" Category="Poor_Metal" Period="3" Valence="3" Config="[Ne]3s2  3p1" Negativity="1.5"/>
+		<Element AtomicNumber="14" Amu="28.0855" Name="Silicon" Symbol="Si" Category="Metalloid" Period="3" Valence="4" Config="[Ne]3s2  3p2" Negativity="1.8"/>
+		<Element AtomicNumber="15" Amu="30.97376" Name="Phosphorus" Symbol="P" Category="Nonmetal" Period="3" Valence="5" Config="[Ne]3s2  3p3" Negativity="2.1"/>
+		<Element AtomicNumber="16" Amu="32.066" Name="Sulfur" Symbol="S" Category="Nonmetal" Period="3" Valence="6" Config="[Ne]3s2  3p4" Negativity="2.5"/>
+		<Element AtomicNumber="17" Amu="35.4527" Name="Chlorine" Symbol="Cl" Category="Halogen" Period="3" Valence="7" Config="[Ne]3s2  3p5" Negativity="3"/>
+		<Element AtomicNumber="18" Amu="39.948" Name="Argon" Symbol="Ar" Category="Noble_Gas" Period="3" Valence="8" Config="[Ne]3s2  3p6" Negativity="0"/>
+		<Element AtomicNumber="19" Amu="39.0983" Name="Potassium" Symbol="K" Category="Alkali" Period="4" Valence="1" Config="[Ar]4s1" Negativity="0.8"/>
+		<Element AtomicNumber="20" Amu="40.078" Name="Calcium" Symbol="Ca" Category="Alkaline" Period="4" Valence="2" Config="[Ar]4s2" Negativity="1"/>
+		<Element AtomicNumber="21" Amu="44.9559" Name="Scandium" Symbol="Sc" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d1 4s2" Negativity="1.3"/>
+		<Element AtomicNumber="22" Amu="47.88" Name="Titanium" Symbol="Ti" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d2 4s2" Negativity="1.5"/>
+		<Element AtomicNumber="23" Amu="50.9415" Name="Vanadium" Symbol="V" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d3 4s2" Negativity="1.6"/>
+		<Element AtomicNumber="24" Amu="51.996" Name="Chromium" Symbol="Cr" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d5 4s1" Negativity="1.6"/>
+		<Element AtomicNumber="25" Amu="54.938" Name="Manganese" Symbol="Mn" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d5 4s2" Negativity="1.5"/>
+		<Element AtomicNumber="26" Amu="55.847" Name="Iron" Symbol="Fe" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d6 4s2" Negativity="1.8"/>
+		<Element AtomicNumber="27" Amu="58.9332" Name="Cobalt" Symbol="Co" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d7 4s2" Negativity="1.9"/>
+		<Element AtomicNumber="28" Amu="58.6934" Name="Nickel" Symbol="Ni" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d8 4s2" Negativity="1.9"/>
+		<Element AtomicNumber="29" Amu="63.546" Name="Copper" Symbol="Cu" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d10 4s1" Negativity="1.9"/>
+		<Element AtomicNumber="30" Amu="65.39" Name="Zinc" Symbol="Zn" Category="Transition_Metal" Period="4" Valence="2" Config="[Ar]3d10 4s2" Negativity="1.6"/>
+		<Element AtomicNumber="31" Amu="69.723" Name="Gallium" Symbol="Ga" Category="Poor_Metal" Period="4" Valence="3" Config="[Ar]3d10 4s2  4p1" Negativity="1.6"/>
+		<Element AtomicNumber="32" Amu="72.61" Name="Germanium" Symbol="Ge" Category="Metalloid" Period="4" Valence="4" Config="[Ar]3d10 4s2  4p2" Negativity="1.8"/>
+		<Element AtomicNumber="33" Amu="74.9216" Name="Arsenic" Symbol="As" Category="Metalloid" Period="4" Valence="5" Config="[Ar]3d10 4s2  4p3" Negativity="2"/>
+		<Element AtomicNumber="34" Amu="78.96" Name="Selenium" Symbol="Se" Category="Nonmetal" Period="4" Valence="6" Config="[Ar]3d10 4s2  4p4" Negativity="2.4"/>
+		<Element AtomicNumber="35" Amu="79.904" Name="Bromine" Symbol="Br" Category="Halogen" Period="4" Valence="7" Config="[Ar]3d10 4s2  4p5" Negativity="2.8"/>
+		<Element AtomicNumber="36" Amu="83.8" Name="Krypton" Symbol="Kr" Category="Noble_Gas" Period="4" Valence="8" Config="[Ar]3d10 4s2  4p6" Negativity="3"/>
+		<Element AtomicNumber="37" Amu="85.4678" Name="Rubidium" Symbol="Rb" Category="Alkali" Period="5" Valence="1" Config="[Kr]5s1" Negativity="0.8"/>
+		<Element AtomicNumber="38" Amu="87.62" Name="Strontium" Symbol="Sr" Category="Alkaline" Period="5" Valence="2" Config="[Kr]5s2" Negativity="1"/>
+		<Element AtomicNumber="39" Amu="88.9059" Name="Yttrium" Symbol="Y" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d1 5s2" Negativity="1.2"/>
+		<Element AtomicNumber="40" Amu="91.224" Name="Zirconium" Symbol="Zr" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d2 5s2" Negativity="1.4"/>
+		<Element AtomicNumber="41" Amu="92.9064" Name="Niobium" Symbol="Nb" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d4 5s1" Negativity="1.6"/>
+		<Element AtomicNumber="42" Amu="95.94" Name="Molybdenum" Symbol="Mo" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d5 5s1" Negativity="1.8"/>
+		<Element AtomicNumber="43" Amu="98" Name="Technetium" Symbol="Tc" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d5 5s2" Negativity="1.9"/>
+		<Element AtomicNumber="44" Amu="101.07" Name="Ruthenium" Symbol="Ru" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d7 5s1" Negativity="2.2"/>
+		<Element AtomicNumber="45" Amu="102.9055" Name="Rhodium" Symbol="Rh" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d8 5s1" Negativity="2.2"/>
+		<Element AtomicNumber="46" Amu="106.42" Name="Palladium" Symbol="Pd" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d10" Negativity="2.2"/>
+		<Element AtomicNumber="47" Amu="107.868" Name="Silver" Symbol="Ag" Category="Transition_Metal" Period="5" Valence="1" Config="[Kr]4d10 5s1" Negativity="1.9"/>
+		<Element AtomicNumber="48" Amu="112.41" Name="Cadmium" Symbol="Cd" Category="Transition_Metal" Period="5" Valence="2" Config="[Kr]4d10 5s2" Negativity="1.7"/>
+		<Element AtomicNumber="49" Amu="114.82" Name="Indium" Symbol="In" Category="Poor_Metal" Period="5" Valence="3" Config="[Kr]4d10 5s2 5p1" Negativity="1.7"/>
+		<Element AtomicNumber="50" Amu="118.71" Name="Tin" Symbol="Sn" Category="Poor_Metal" Period="5" Valence="4" Config="[Kr]4d10 5s2 5p2" Negativity="1.8"/>
+		<Element AtomicNumber="51" Amu="121.757" Name="Antimony" Symbol="Sb" Category="Metalloid" Period="5" Valence="5" Config="[Kr]4d10 5s2 5p3" Negativity="1.9"/>
+		<Element AtomicNumber="52" Amu="127.6" Name="Tellurium" Symbol="Te" Category="Metalloid" Period="5" Valence="6" Config="[Kr]4d10 5s2 5p4" Negativity="2.1"/>
+		<Element AtomicNumber="53" Amu="126.9045" Name="Iodine" Symbol="I" Category="Halogen" Period="5" Valence="7" Config="[Kr]4d10 5s2 5p5" Negativity="2.5"/>
+		<Element AtomicNumber="54" Amu="131.29" Name="Xenon" Symbol="Xe" Category="Noble_Gas" Period="5" Valence="8" Config="[Kr]4d10 5s2 5p6" Negativity="2.6"/>
+		<Element AtomicNumber="55" Amu="132.9054" Name="Cesium" Symbol="Cs" Category="Alkali" Period="6" Valence="1" Config="[Xe]6s1" Negativity="0.7"/>
+		<Element AtomicNumber="56" Amu="137.33" Name="Barium" Symbol="Ba" Category="Alkaline" Period="6" Valence="2" Config="[Xe]6s2" Negativity="0.9"/>
+		<Element AtomicNumber="57" Amu="138.9055" Name="Lanthanum" Symbol="La" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]5d1 6s2" Negativity="1.1"/>
+		<Element AtomicNumber="58" Amu="140.12" Name="Cerium" Symbol="Ce" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f1 5d1 6s2" Negativity="1.1"/>
+		<Element AtomicNumber="59" Amu="140.9077" Name="Praseodymium" Symbol="Pr" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f3 6s2" Negativity="1.1"/>
+		<Element AtomicNumber="60" Amu="144.24" Name="Neodymium" Symbol="Nd" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f4 6s2" Negativity="1.1"/>
+		<Element AtomicNumber="61" Amu="145" Name="Promethium" Symbol="Pm" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f5 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="62" Amu="150.36" Name="Samarium" Symbol="Sm" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f6 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="63" Amu="151.965" Name="Europium" Symbol="Eu" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f7 6s2" Negativity="1.1"/>
+		<Element AtomicNumber="64" Amu="157.25" Name="Gadolinium" Symbol="Gd" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f7 5d1 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="65" Amu="158.9253" Name="Terbium" Symbol="Tb" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f9 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="66" Amu="162.5" Name="Dysprosium" Symbol="Dy" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f10 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="67" Amu="164.9303" Name="Holmium" Symbol="Ho" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f11 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="68" Amu="167.26" Name="Erbium" Symbol="Er" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f12 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="69" Amu="168.9342" Name="Thulium" Symbol="Tm" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f13 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="70" Amu="173.04" Name="Ytterbium" Symbol="Yb" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f14 6s2" Negativity="1.2"/>
+		<Element AtomicNumber="71" Amu="174.967" Name="Lutetium" Symbol="Lu" Category="Lanthancid" Period="6" Valence="2" Config="[Xe]4f14 5d1 6s2" Negativity="1.3"/>
+		<Element AtomicNumber="72" Amu="178.49" Name="Hafnium" Symbol="Hf" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d2 6s2" Negativity="1.3"/>
+		<Element AtomicNumber="73" Amu="180.9479" Name="Tantalum" Symbol="Ta" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d3 6s2" Negativity="1.5"/>
+		<Element AtomicNumber="74" Amu="183.85" Name="Tungsten" Symbol="W" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d4 6s2" Negativity="1.7"/>
+		<Element AtomicNumber="75" Amu="186.207" Name="Rhenium" Symbol="Re" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d5 6s2" Negativity="1.9"/>
+		<Element AtomicNumber="76" Amu="190.2" Name="Osmium" Symbol="Os" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d6 6s2" Negativity="2.2"/>
+		<Element AtomicNumber="77" Amu="192.22" Name="Iridium" Symbol="Ir" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d7 6s2" Negativity="2.2"/>
+		<Element AtomicNumber="78" Amu="195.08" Name="Platinum" Symbol="Pt" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d9 6s1" Negativity="2.22"/>
+		<Element AtomicNumber="79" Amu="196.9665" Name="Gold" Symbol="Au" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d10 6s1" Negativity="2.4"/>
+		<Element AtomicNumber="80" Amu="200.59" Name="Mercury" Symbol="Hg" Category="Transition_Metal" Period="6" Valence="2" Config="[Xe]4f14 5d10 6s2" Negativity="1.9"/>
+		<Element AtomicNumber="81" Amu="204.383" Name="Thallium" Symbol="Tl" Category="Poor_Metal" Period="6" Valence="3" Config="[Xe]4f14 5d10 6s2 6p1" Negativity="1.8"/>
+		<Element AtomicNumber="82" Amu="207.2" Name="Lead" Symbol="Pb" Category="Poor_Metal" Period="6" Valence="4" Config="[Xe]4f14 5d10 6s2 6p2" Negativity="1.9"/>
+		<Element AtomicNumber="83" Amu="208.9804" Name="Bismuth" Symbol="Bi" Category="Poor_Metal" Period="6" Valence="5" Config="[Xe]4f14 5d10 6s2 6p3" Negativity="1.9"/>
+		<Element AtomicNumber="84" Amu="209" Name="Polonium" Symbol="Po" Category="Metalloid" Period="6" Valence="6" Config="[Xe]4f14 5d10 6s2 6p4" Negativity="2"/>
+		<Element AtomicNumber="85" Amu="210" Name="Astatine" Symbol="At" Category="Halogen" Period="6" Valence="7" Config="[Xe]4f14 5d10 6s2 6p5" Negativity="2.2"/>
+		<Element AtomicNumber="86" Amu="222" Name="Radon" Symbol="Rn" Category="Noble_Gas" Period="6" Valence="8" Config="[Xe]4f14 5d10 6s2 6p6" Negativity="2.4"/>
+		<Element AtomicNumber="87" Amu="223" Name="Francium" Symbol="Fr" Category="Alkali" Period="7" Valence="1" Config="[Rn]7s1" Negativity="0.7"/>
+		<Element AtomicNumber="88" Amu="226.0254" Name="Radium" Symbol="Ra" Category="Alkaline" Period="7" Valence="2" Config="[Rn]7s2" Negativity="0.9"/>
+		<Element AtomicNumber="89" Amu="227" Name="Actinium" Symbol="Ac" Category="Actinoids" Period="7" Valence="2" Config="[Rn]6d1 7s2" Negativity="1.1"/>
+		<Element AtomicNumber="90" Amu="232.0381" Name="Thorium" Symbol="Th" Category="Actinoids" Period="7" Valence="2" Config="[Rn]6d2 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="91" Amu="231.0359" Name="Protactinium" Symbol="Pa" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f2 6d1 7s2" Negativity="1.5"/>
+		<Element AtomicNumber="92" Amu="238.029" Name="Uranium" Symbol="U" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f3 6d1 7s2" Negativity="1.38"/>
+		<Element AtomicNumber="93" Amu="237.0482" Name="Neptunium" Symbol="Np" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f4 6d1 7s2" Negativity="1.36"/>
+		<Element AtomicNumber="94" Amu="244" Name="Plutonium" Symbol="Pu" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f6 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="95" Amu="243" Name="Americium" Symbol="Am" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f7 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="96" Amu="247" Name="Curium" Symbol="Cm" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f7 6d1 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="97" Amu="247" Name="Berkelium" Symbol="Bk" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f97s2" Negativity="1.3"/>
+		<Element AtomicNumber="98" Amu="251" Name="Californium" Symbol="Cf" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f107s2" Negativity="1.3"/>
+		<Element AtomicNumber="99" Amu="252" Name="Einsteinium" Symbol="Es" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f11 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="100" Amu="257" Name="Fermium" Symbol="Fm" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f12 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="101" Amu="258" Name="Mendelevium" Symbol="Md" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f13 7s2" Negativity="1.3"/>
+		<Element AtomicNumber="102" Amu="259" Name="Nobelium" Symbol="No" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f14 7s2" Negativity="1.5"/>
+		<Element AtomicNumber="103" Amu="262" Name="Lawrencium" Symbol="Lr" Category="Actinoids" Period="7" Valence="2" Config="[Rn]5f14 7s2 7p1"/>
+		<Element AtomicNumber="104" Amu="261" Name="Rutherfordium" Symbol="Rf" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d27s2"/>
+		<Element AtomicNumber="105" Amu="262" Name="Dubnium" Symbol="Db" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d3 7s2"/>
+		<Element AtomicNumber="106" Amu="266" Name="Seaborgium" Symbol="Sg" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d4 7s2"/>
+		<Element AtomicNumber="107" Amu="264" Name="Bohrium" Symbol="Bh" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d5 7s2"/>
+		<Element AtomicNumber="108" Amu="269" Name="Hassium" Symbol="Hs" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d6 7s2"/>
+		<Element AtomicNumber="109" Amu="268" Name="Meitnerium" Symbol="Mt" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d7 7s2"/>
+		<Element AtomicNumber="110" Amu="269" Name="Darmstadtium" Symbol="Ds" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d9 7s1"/>
+		<Element AtomicNumber="111" Amu="272" Name="Roentgenium" Symbol="Rg" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d10 7s1"/>
+		<Element AtomicNumber="112" Amu="277" Name="Copernicium" Symbol="Cn" Category="Transition_Metal" Period="7" Valence="2" Config="[Rn]5f14 6d10 7s2"/>
+	</Items>
+</PeriodicTable>
